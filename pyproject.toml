@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "label_with_snorkel"
+version = "0.1.0"
+description = ""
+authors = ["MariaZentsova <mariazentsova@icloud.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+snorkel = "^0.9.8"
+gensim = "^4.1.2"
+jupyterlab = "^3.3.2"
+seaborn = "^0.11.2"
+spacy = "^3.2.3"
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl" } 
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

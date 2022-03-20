@@ -1,0 +1,771 @@
+id,name,slug,counts
+13178,accounting,accounting,25
+576596097,accounting software,accounting-software,10
+384318,ad tech,ad-tech,10
+29691,Adobe,adobe,30
+2228,Ads,ads,27
+152070389,Adstage,adstage,10
+1063302,Adtech,adtech,21
+145533,advertising,advertising-20,32
+173267257,Advertising Tech,advertising-tech,46
+180368,advisors,advisors,29
+113553,agile software development,agile-software-development,19
+19239773,Airbnb,airbnb,298
+32709875,Airtable,airtable,12
+153122,Alexa,alexa,31
+127881918,Algolia,algolia,10
+2365173,alipay,alipay,10
+236160,Amazon Web Services,amazon-web-services,34
+4717787,Amazon.com,amazon-com,16
+345071,amplitude,amplitude,10
+641922,Android,android,207
+12894481,android app,android-app,22
+10925739,android apps,android-apps,27
+28725223,Angry Birds,angry-birds,17
+1807,animation,animation,12
+4276,api,api,170
+40428,APIs,apis,51
+232047,App,app,80
+5439381,app developers,app-developers,10
+39612908,app discovery,app-discovery,11
+11349853,app stores,app-stores,11
+5247686,app-store,app-store,53
+3939088,apple music,apple-music,24
+36265994,Apple Watch,apple-watch,12
+449557101,Apps,apps,486
+38299,AR,ar,26
+2290,architecture,architecture,14
+177,Art,art,17
+12710,artist,artist,13
+182667,Asana,asana,44
+22538,Assistant,assistant,10
+57597,AT&amp;T,att,17
+445398,Atlassian,atlassian,49
+413,audio,audio,22
+282669,augmented reality,augmented-reality,63
+44620,authentication,authentication,13
+7223,author,author,19
+117851,auto insurance,auto-insurance,15
+119389,autodesk,autodesk,20
+144203,AWS,aws,50
+335778,Azure,azure,11
+49684,Baidu,baidu,25
+160603,Bank,bank,94
+26653,Banking,banking,244
+19039,Banks,banks,11
+68337,Battlefield,battlefield,429
+6025,Beijing,beijing,25
+576713304,Better.com,better-com,12
+41616997,birchbox,birchbox,17
+48300,bird,bird,56
+449555698,birth control,birth-control,10
+36507086,Bitcoin,bitcoin,168
+64575263,blockchain,blockchain,82
+226336030,blockchains,blockchains,39
+91,blogging,blogging,17
+460,blogs,blogs,22
+31280,Bluetooth,bluetooth,23
+20892898,Booking.com,booking-com,19
+178,books,books,31
+576596708,brand,brand,19
+449551318,brand management,brand-management,35
+8260,branding,branding,25
+17359,brands,brands,18
+449549343,Brexit,brexit,18
+37897360,brian chesky,brian-chesky,23
+1055555,Buffer,buffer,16
+71772,business models,business-models,19
+576619091,business process management,business-process-management,24
+449554827,business software,business-software,18
+90609,Business Travel,business-travel,13
+576801256,buy now pay later,buy-now-pay-later,17
+5605,camera+,camera,19
+4252,cancer,cancer,39
+6863,cannabis,cannabis,66
+5238643,canva,canva,29
+88639,car insurance,car-insurance,11
+69753,caregiving,caregiving,11
+4870,chat,chat,20
+84261,chatbot,chatbot,33
+429083150,chatbots,chatbots,26
+576659436,Checkout.com,checkout-com,11
+28532,Cisco,cisco,53
+99183,cisco systems,cisco-systems,10
+69816,cloud,cloud,70
+445125923,cloud applications,cloud-applications,65
+1715866,cloud computing,cloud-computing,161
+576666023,cloud infrastructure,cloud-infrastructure,81
+449551636,cloud native,cloud-native,26
+10250297,cloud security,cloud-security,10
+5767724,cloud services,cloud-services,31
+16280853,cloud software,cloud-software,10
+5654811,cloud storage,cloud-storage,51
+17966630,Cloudera,cloudera,13
+43080522,cloudflare,cloudflare,34
+150082,clubhouse,clubhouse,32
+9671413,co-working space,co-working-space,11
+62913153,codecademy,codecademy,11
+332,coding,coding,27
+98743001,coinbase,coinbase,147
+15888,collaboration,collaboration,31
+576747132,collaboration tools,collaboration-tools,15
+6234,comedy,comedy,10
+21080,commerce,commerce,27
+84258307,commercial drones,commercial-drones,15
+449547210,commercial spaceflight,commercial-spaceflight,11
+1214,communication,communication,16
+7742,communications,communications,11
+2528,community,community,11
+85113,compliance,compliance,17
+8159,computer security,computer-security,124
+76379,Computer Vision,computer-vision,71
+262,computing,computing,490
+1911,concerts,concerts,11
+113,content,content,20
+39864,content management,content-management,13
+72209,content management systems,content-management-systems,14
+977799,content marketing,content-marketing,44
+32361710,continuous delivery,continuous-delivery,11
+323975,Contractor,contractor,13
+10003,contractors,contractors,10
+5827,credit,credit,33
+117311,credit card,credit-card,43
+43029,credit cards,credit-cards,32
+6576269,Credit Karma,credit-karma,19
+3958,cricket,cricket,11
+446162705,CRISPR,crispr,14
+4259,CRM,crm,111
+5324,crypto,crypto,54
+576863416,Crypto Economy,crypto-economy,58
+576596953,cryptocurrencies,cryptocurrencies,112
+51541356,cryptocurrency,cryptocurrency,68
+25818,cryptography,cryptography,63
+123802,currency,currency,14
+1909481,customer acquisition cost,customer-acquisition-cost,10
+576604165,customer experience,customer-experience,57
+102821,customer relationship management,customer-relationship-management,38
+9273,Customer Service,customer-service,38
+576604652,Customer success,customer-success,16
+103259,customer support,customer-support,17
+6148720,cyberattack,cyberattack,10
+903976,cyberbullying,cyberbullying,10
+51751,cybercrime,cybercrime,49
+25366,cybernetics,cybernetics,29
+965824,cybersecurity,cybersecurity,64
+576594384,cybersecurity startup,cybersecurity-startup,10
+1188524,Cyberwarfare,cyberwarfare,50
+22379,data,data,75
+83336,data analysis,data-analysis,22
+942203,data analytics,data-analytics,23
+67372,data breach,data-breach,20
+65393329,data collective,data-collective,13
+69804,data management,data-management,49
+35064,data protection,data-protection,23
+21818323,data science,data-science,32
+5564,data security,data-security,48
+86765,data visualization,data-visualization,13
+1588,data warehouse,data-warehouse,24
+475,database,database,23
+10286,databases,databases,29
+195273147,Databricks,databricks,26
+42471122,Datadog,datadog,15
+7313,dating,dating,46
+14204370,dating apps,dating-apps,37
+576785427,Dear Sophie,dear-sophie,13
+731242,debit card,debit-card,23
+22790,debt,debt,28
+284712,decentralization,decentralization,31
+576697154,Decentralized Finance,decentralized-finance,13
+576766787,Decrypted,decrypted,15
+1641297,Deezer,deezer,12
+19616000,Degreed,degreed,12
+234932110,Deliveroo,deliveroo,48
+31822,delivery,delivery,49
+86369054,Delivery Hero,delivery-hero,28
+78,Dell,dell,14
+29240,deloitte,deloitte,11
+148,design,design,81
+30643,designer,designer,20
+67417,Designers,designers,15
+449558542,Desktop Metal,desktop-metal,10
+5155,developer tools,developer-tools,44
+20054,developers,developers,154
+780,development,development,11
+28070474,devops,devops,59
+219732,digital advertising,digital-advertising,16
+43814,digital audio,digital-audio,11
+449548411,digital banking,digital-banking,22
+681785,digital currencies,digital-currencies,19
+1346276,digital health,digital-health,39
+154578,digital marketing,digital-marketing,64
+5345,digital media,digital-media,58
+4270,digital rights,digital-rights,11
+3066263,digital textbooks,digital-textbooks,11
+84843277,digitalocean,digitalocean,13
+576625676,direct listing,direct-listing,18
+1946303,direct to consumer,direct-to-consumer,24
+449554757,Director,director,15
+5597,discord,discord,30
+9369,Discovery,discovery,17
+24873,Disney,disney,41
+183226,Distance learning,distance-learning,10
+101577,distributed computing,distributed-computing,14
+4504191,Docker,docker,21
+230106574,DocSend,docsend,20
+576597868,drug development,drug-development,14
+576603353,drug discovery,drug-discovery,23
+6200,drugs,drugs,13
+55057157,duolingo,duolingo,51
+9881,e-commerce,e-commerce,595
+8963,E-Learning,e-learning,13
+6601,eBay,ebay,71
+6725,ebooks,ebooks,13
+449557045,eCommerce,ecommerce,169
+576596358,edge computing,edge-computing,10
+32974,editor,editor,24
+576594951,editor-in-chief,editor-in-chief,15
+39170,edtech,edtech,392
+449557078,Education,education,388
+16160962,education tech,education-tech,11
+131475,Electronic Arts,electronic-arts,15
+220352,electronic health records,electronic-health-records,10
+7334,electronics,electronics,37
+3981965,elizabeth holmes,elizabeth-holmes,11
+163,email,email,109
+31255,email marketing,email-marketing,25
+576822163,embedded finance,embedded-finance,15
+7915,employment,employment,43
+6474,encryption,encryption,45
+384,entertainment,entertainment,21
+348123,Epic Games,epic-games,28
+576599457,Erectile Dysfunction,erectile-dysfunction,12
+7323,esports,esports,42
+25473327,ethereum,ethereum,71
+133613,Etsy,etsy,23
+4125,Exercise,exercise,15
+576607021,expense management,expense-management,11
+81819,Facebook,facebook,526
+6472307,facebook messenger,facebook-messenger,20
+64818,facial recognition,facial-recognition,28
+449555888,fake news,fake-news,11
+37313,families,families,30
+406,family,family,98
+32121,fantasy sports,fantasy-sports,11
+12320970,Farfetch,farfetch,13
+3737,Fashion,fashion,106
+1747,fiction,fiction,13
+3288924,Figma,figma,21
+524,film,film,10
+1186,films,films,13
+4269,finance,finance,663
+576666239,financial inclusion,financial-inclusion,12
+18426,financial planning,financial-planning,12
+53015,financial services,financial-services,212
+24814279,financial tech,financial-tech,12
+576668608,financial technology,financial-technology,147
+216504,Fintech,fintech,489
+576720423,fintech startup,fintech-startup,17
+10930235,fitbit,fitbit,38
+5189,fitness,fitness,60
+921,flickr,flickr,10
+449552675,footwear,footwear,10
+472905,Foursquare,foursquare,75
+802,free software,free-software,29
+343781,freelancer,freelancer,13
+34135,freelancers,freelancers,13
+449557095,Gadgets,gadgets,27
+156944114,gadgets podcast,gadgets-podcast,22
+21,games,games,48
+339399,gamestop,gamestop,10
+38980355,gamification,gamification,18
+449557080,Gaming,gaming,109
+2151284,gesture control,gesture-control,12
+174599,Getty-Images,getty-images,19
+169482,gifting,gifting,16
+19633,gifts,gifts,12
+16241117,gig economy,gig-economy,36
+576606222,gig workers,gig-workers,16
+209196,Git,git,11
+5603054,GitHub,github,84
+77180337,gitlab,gitlab,25
+5786856,Glassdoor,glassdoor,21
+150352,glasses,glasses,11
+18006924,glossier,glossier,13
+82795923,Google Glass,google-glass,14
+32740565,Google Play,google-play,10
+51334,Google-Maps,google-maps,13
+2312741,GoPro,gopro,13
+243,grocery,grocery,13
+1763889,grocery delivery,grocery-delivery,34
+54108,Grocery store,grocery-store,30
+18308320,Groupon,groupon,46
+99242442,growth hacking,growth-hacking,22
+576639396,growth marketing,growth-marketing,103
+576667269,growth tactics,growth-tactics,24
+70249449,gumroad,gumroad,15
+716966,Gusto,gusto,16
+449558381,H-1B,h-1b,36
+331275,H-1B visa,h-1b-visa,55
+66659,HBO,hbo,17
+238306,head,head,18
+280910,Headspace,headspace,27
+449557089,Health,health,326
+20052,health care,health-care,34
+53199,health insurance,health-insurance,68
+199732,Health tech,health-tech,24
+1460,healthcare,healthcare,231
+72228,healthcare industry,healthcare-industry,34
+109263,HealthTech,healthtech,171
+78422530,HelloFresh,hellofresh,18
+58957,high resolution,high-resolution,20
+27798,higher ed,higher-ed,11
+39932,hospitality,hospitality,15
+3554,hotels,hotels,26
+61612435,HotelTonight,hoteltonight,26
+299,housing,housing,13
+39956,hr,hr,35
+647,HTML,html,31
+53242,html5,html5,41
+2939952,HubSpot,hubspot,26
+1702277,Hulu,hulu,14
+304466,human resource management,human-resource-management,56
+15581,human resources,human-resources,36
+2720,human rights,human-rights,12
+10679,identity,identity,14
+18326,identity management,identity-management,30
+420336,image recognition,image-recognition,10
+31381487,imessage,imessage,12
+19882240,Imgur,imgur,21
+4363,immigration,immigration,46
+576726866,immigration law,immigration-law,68
+25337,inbox,inbox,16
+428728374,infertility,infertility,12
+154471,Influencer Marketing,influencer-marketing,31
+556,information,information,19
+5812,Information technology,information-technology,61
+576596857,initial coin offering,initial-coin-offering,13
+104568352,Instacart,instacart,96
+42653521,Instagram,instagram,202
+4995,Instant Messaging,instant-messaging,19
+12068,Intel,intel,48
+16759,interior design,interior-design,10
+1117,international space station,international-space-station,20
+9274,internet security,internet-security,16
+3016675,InVision,invision,38
+324281,iOS,ios,85
+94360901,iOS 8,ios-8,11
+38917898,iOS app,ios-app,12
+40651934,iOS apps,ios-apps,82
+2121118,IoT,iot,67
+580102,iPad,ipad,52
+30739188,ipad app,ipad-app,33
+106595,iPhone,iphone,83
+1514461,iPhone App,iphone-app,62
+1627187,iphone apps,iphone-apps,18
+1844,iTunes,itunes,13
+1017,Java,java,10
+457,Javascript,javascript,13
+250223,JIRA,jira,14
+22308,job hunting,job-hunting,10
+33992,job search,job-search,11
+3558,jobs,jobs,27
+316,journalism,journalism,17
+447981305,Juicero,juicero,12
+46713213,Kubernetes,kubernetes,36
+56130,language learning,language-learning,34
+2054,law,law,22
+46227,law enforcement,law-enforcement,14
+35630,lawsuit,lawsuit,13
+30857,lawsuits,lawsuits,10
+146155,lawyer,lawyer,12
+55452,lead generation,lead-generation,11
+16820648,league of legends,league-of-legends,10
+2294936,learn to code,learn-to-code,17
+264,learning,learning,39
+2283,legal,legal,16
+449551089,legal tech,legal-tech,13
+46938,lending,lending,17
+2719700,Lending-Club,lending-club,10
+576717222,life insurance,life-insurance,10
+80962,LinkedIn,linkedin,115
+610,linux,linux,27
+184492,live streaming,live-streaming,15
+43710,loans,loans,47
+1256332,Looker,looker,12
+449561246,low-code,low-code,23
+5653,mail,mail,17
+13933,Mailbox,mailbox,10
+6035468,Mailchimp,mailchimp,21
+15593,malware,malware,26
+304812474,managed by q,managed-by-q,17
+6874,marijuana,marijuana,14
+7138,market research,market-research,19
+175,Marketing,marketing,330
+1205110,marketing automation,marketing-automation,16
+576651200,marketing strategy,marketing-strategy,14
+6770320,marketo,marketo,15
+21911,marketplace,marketplace,99
+954238,Marketplaces,marketplaces,12
+280722,mastercard,mastercard,42
+429747676,MasterClass,masterclass,14
+292,media,media,65
+50,medical,medical,26
+72474,medical imaging,medical-imaging,10
+91372,medical technology,medical-technology,13
+69737,Medicare,medicare,25
+3659,medicine,medicine,66
+6197,meditation,meditation,15
+21686,Medium,medium,31
+2674268,medtech,medtech,16
+273239,meet-up,meet-up,11
+1209,meetings,meetings,10
+27138,meetup,meetup,72
+48521890,meetups,meetups-2,47
+5004,mental health,mental-health,74
+304144,mentorship,mentorship,12
+108919,messaging,messaging,67
+63369739,messaging apps,messaging-apps,21
+40159,Messenger,messenger,26
+576603748,metaverse,metaverse,10
+449548262,microservices,microservices,16
+637,Microsoft,microsoft,293
+5496,microsoft windows,microsoft-windows,17
+489811,mixed reality,mixed-reality,11
+30914758,Mixpanel,mixpanel,19
+120,Mobile,mobile,568
+357017,mobile ads,mobile-ads,22
+67335,mobile advertising,mobile-advertising,49
+780857,mobile app,mobile-app,68
+76517,mobile applications,mobile-applications,24
+77847,mobile apps,mobile-apps,85
+75749,mobile banking,mobile-banking,20
+220546,mobile commerce,mobile-commerce,13
+26083,mobile devices,mobile-devices,19
+46556,mobile games,mobile-games,15
+84302,mobile gaming,mobile-gaming,27
+1457259,mobile health,mobile-health,10
+111653,mobile marketing,mobile-marketing,12
+1080418,mobile messaging,mobile-messaging,22
+75621,mobile payments,mobile-payments,89
+1321,mobile phones,mobile-phones,17
+44627,mobile software,mobile-software,11
+198365,mobile video,mobile-video,10
+414,mobility,mobility,59
+8846,model,model,10
+576596916,Modern Fertility,modern-fertility,14
+1417,money,money,230
+21954763,MongoDB,mongodb,14
+111949,monitoring,monitoring,18
+449552620,monzo,monzo,64
+48121643,MOOCs,moocs,17
+59737243,moviepass,moviepass,15
+190,movies,movies,15
+24,Mozilla,mozilla,11
+18,Music,music,148
+1817228,music streaming,music-streaming,15
+20129,Musicians,musicians,10
+3884844,musictech,musictech,11
+4419,mysql,mysql,15
+449550541,national basketball association,national-basketball-association,30
+449550982,National Football League,national-football-league,11
+449559475,National Health Service,national-health-service,10
+42518,national security,national-security,14
+106052471,native ads,native-ads,10
+145707,natural language processing,natural-language-processing,53
+576720264,neobank,neobank,68
+576741057,neobanks,neobanks,15
+55517,neologisms,neologisms,12
+46365205,nerdwallet,nerdwallet,10
+1182,Netflix,netflix,134
+2465,Netherlands,netherlands,27
+7426,networking,networking,16
+5426,new media,new-media,11
+576858976,NFTs,nfts,23
+576649470,NFX,nfx,28
+449547542,NHS,nhs,21
+1915,Nintendo,nintendo,13
+576628544,no code,no-code,37
+3664,Nokia,nokia,17
+22319505,nosql,nosql,11
+24352,Notion,notion,13
+261983612,nubank,nubank,54
+101584,ocr,ocr,10
+6521415,Oculus,oculus,19
+94018548,Oculus Rift,oculus-rift,14
+75924,offers,offers,13
+42674,Okta,okta,33
+45455150,on-demand delivery,on-demand-delivery,27
+296013,onboarding,onboarding,17
+26593,online advertising,online-advertising,55
+56519,online banking,online-banking,16
+25397,online dating,online-dating,12
+149062,online education,online-education,52
+2184721,online food ordering,online-food-ordering,61
+449551436,online grocery,online-grocery,13
+76231,online learning,online-learning,29
+4454342,online lending,online-lending,11
+2354819,online marketplace,online-marketplace,30
+4398355,online marketplaces,online-marketplaces,19
+778997,online payments,online-payments,60
+30060,online shopping,online-shopping,99
+135742,online stores,online-stores,12
+112803,online travel,online-travel,10
+27908,online video,online-video,13
+576601593,Open Banking,open-banking,26
+216630,open educational resources,open-educational-resources,11
+25,open source,open-source,114
+3694,open source software,open-source-software,18
+1906,Opera,opera,13
+5495,operating system,operating-system,30
+3015,operating systems,operating-systems,75
+3766,oracle,oracle,40
+37471,Password,password,20
+78192,Passwords,passwords,10
+149021,payment,payment,17
+576597558,payment processing,payment-processing,13
+63860,payments,payments,110
+1511,PayPal,paypal,120
+375852,payroll,payroll,21
+915005,Pebble,pebble,16
+449557551,Peloton,peloton,39
+77740,performance management,performance-management,11
+873013,personal assistant,personal-assistant,10
+10625,personal finance,personal-finance,32
+2374,personalization,personalization,31
+326792,Pharmaceutical,pharmaceutical,29
+422334991,pharmaceuticals,pharmaceuticals,20
+63715,pharmacy,pharmacy,19
+994,photo,photo,11
+119,photo sharing,photo-sharing,99
+436,Photography,photography,55
+304,photos,photos,120
+36592502,Pinterest,pinterest,206
+15108,player,player,33
+344134262,playground global,playground-global,10
+36048006,Pluralsight,pluralsight,13
+1142,podcast,podcast,45
+92,Podcasting,podcasting,16
+2060,podcasts,podcasts,21
+45031,point-of-sale,point-of-sale,14
+449550409,Pokémon Go,pokemon-go,13
+7034,Porn,porn,10
+635,PR,pr,17
+189241,predictive analytics,predictive-analytics,14
+3279,privacy,privacy,70
+29172,Private Equity,private-equity,429
+30787,product management,product-management,63
+576668497,product manager,product-manager,11
+576686264,product marketing,product-marketing,17
+2704,productivity,productivity,43
+887562,professional networking,professional-networking,14
+196,programming,programming,15
+510,project management,project-management,24
+444928258,property management,property-management,12
+9085,public,public,12
+8263,public relations,public-relations,17
+16489,publishers,publishers,10
+3330,Publishing,publishing,51
+832,Python,python,15
+13443,racism,racism,11
+275,radio,radio,16
+192933,ransomware,ransomware,18
+49695267,Raspberry Pi,raspberry-pi,14
+1473,reading,reading,14
+3225,real estate,real-estate,175
+449555271,real estate tech,real-estate-tech,14
+75547,real-time,real-time,10
+442,recommendations,recommendations,58
+8452,recruiting,recruiting,40
+39653,recruitment,recruitment,76
+57767,red hat,red-hat,11
+40179,Reddit,reddit,58
+235192,relational database,relational-database,11
+5752272,Revolut,revolut,96
+783093,Robinhood,robinhood,124
+449547669,robo-advisor,robo-advisor,11
+7094,sales,sales,66
+449556866,sales tools,sales-tools,18
+97017,Salesforce,salesforce,157
+9232878,salesforce.com,salesforce-com,25
+24167,savings,savings,15
+38754,scheduling,scheduling,10
+24976,Schools,schools,15
+891490,scribd,scribd,14
+19485,sdk,sdk,23
+2373,Search,search,50
+28201,search engine,search-engine,42
+1154,search engine optimization,search-engine-optimization,21
+2983,search engines,search-engines,13
+576692005,security tools,security-tools,11
+448437081,segment,segment,10
+576603701,serverless computing,serverless-computing,21
+43613005,ServiceNow,servicenow,20
+11866,sexism,sexism,11
+449558968,sexual harassment,sexual-harassment,10
+749755,siri,siri,30
+812,Skype,skype,20
+251552,slack,slack,148
+2224,sleep,sleep,11
+46994,slice,slice,14
+10585,small business,small-business,34
+2562683,smart cities,smart-cities,10
+697740,smart home,smart-home,30
+12506569,smart lock,smart-lock,13
+24435,smartphone,smartphone,92
+38616,smartphones,smartphones,62
+26895916,smartwatch,smartwatch,14
+449553840,snap inc,snap-inc,28
+80687524,Snapchat,snapchat,207
+924097,Snowflake,snowflake,23
+1404273,social,social-20,39
+34945179,social,social-2,126
+6139451,social,social-7,19
+469882,social commerce,social-commerce,36
+904488,social gaming,social-gaming,11
+49818,social media,social-media,265
+580617,social media marketing,social-media-marketing,23
+576596359,social media platforms,social-media-platforms,15
+40461,social network,social-network,60
+1652,social networking,social-networking,50
+36117,social networks,social-networks,46
+1888084,social travel,social-travel,14
+194471,software as a service,software-as-a-service,65
+2301,software development,software-development,51
+113624,Software Engineer,software-engineer,14
+11176,software engineering,software-engineering,32
+576605227,software platform,software-platform,22
+11153,software testing,software-testing,15
+7100026,soundcloud,soundcloud,44
+79494,spamming,spamming,10
+134896,Speaker,speaker,20
+576796229,special-purpose acquisition company,special-purpose-acquisition-company,33
+101585,Speech Recognition,speech-recognition,18
+67,Sports,sports,61
+2074982,Spotify,spotify,232
+10346,SQL,sql,14
+171190,Square,square,90
+1312968,squarespace,squarespace,23
+576612036,stablecoin,stablecoin,10
+45141,streaming,streaming,39
+71325,Streaming Media,streaming-media,12
+897720,streaming music,streaming-music,29
+8156026,streaming service,streaming-service,11
+19148664,streaming services,streaming-services,18
+158870,streaming video,streaming-video,27
+1179344,stripe,stripe,106
+104771,student loans,student-loans,17
+1052,students,students,23
+98504,subscription,subscription,17
+122735,subscription service,subscription-service,24
+789831,subscription services,subscription-services,30
+122657,subscriptions,subscriptions,18
+576599018,Substack,substack,19
+57544,surgery,surgery,10
+21053,surveillance,surveillance,11
+228240,SurveyMonkey,surveymonkey,12
+1092,Surveys,surveys,12
+270794,tablets,tablets,11
+28168,talent,talent,10
+467614,targeted advertising,targeted-advertising,16
+404489,task management,task-management,11
+35632101,TaskRabbit,taskrabbit,20
+8862,tax,tax,12
+84569,teacher,teacher,15
+2156,teachers,teachers,22
+51892,Teens,teens,16
+118145920,Teespring,teespring,10
+30684,telecommunications,telecommunications,47
+576603422,telecommuting,telecommuting,39
+165297,telefonica,telefonica,11
+51312,telehealth,telehealth,65
+349159,telemedicine,telemedicine,81
+459,television,television,29
+198,term sheet,term-sheet,10
+621903,terms of service,terms-of-service,10
+61736,text messaging,text-messaging,12
+136453,textbooks,textbooks,12
+193546312,Theranos,theranos,27
+33180,therapy,therapy,16
+5938293,tiktok,tiktok,59
+7434380,Tinder,tinder,98
+1867757,todoist,todoist,12
+49969060,TransferWise,transferwise,53
+8349,Translation,translation,24
+32315980,trello,trello,20
+115785,tutoring,tutoring,12
+462,tv,tv,37
+13794425,Twilio,twilio,73
+752915,Twitch,twitch,52
+599182,Twitter,twitter,281
+119324717,typeform,typeform,10
+76218893,udacity,udacity,19
+33950879,udemy,udemy,32
+33094,unity,unity,21
+128119428,upwork,upwork,14
+11144604,Viber,viber,24
+449557085,Video,video,147
+211009,video chat,video-chat,30
+241060,video conferencing,video-conferencing,63
+24545,Video Editing,video-editing,14
+1914,video games,video-games,16
+34384,video gaming,video-gaming,20
+272240,video hosting,video-hosting,18
+1149,videos,videos,17
+7542,Vimeo,vimeo,10
+630062,vine,vine,43
+186372,virtual assistant,virtual-assistant,15
+4617711,virtual events,virtual-events,23
+18949,Virtual reality,virtual-reality,83
+24441,visa,visa,47
+38600,vmware,vmware,25
+44433,vodafone,vodafone,21
+2355,voice,voice,13
+57504,voice recognition,voice-recognition,14
+27264,VR,vr,40
+1180879,wearable devices,wearable-devices,18
+40086211,wearables,wearables-2,22
+17280,web app,web-app,15
+4759,Web applications,web-applications,14
+5497,web browser,web-browser,11
+26885,Web browsers,web-browsers,10
+189506,web conferencing,web-conferencing,18
+3850,web developers,web-developers,11
+2260,web development,web-development,18
+2358,web services,web-services,13
+74875,WebEX,webex,12
+44370,webflow,webflow,18
+676,websites,websites,59
+32758280,WeChat,wechat,17
+42024,Weddings,weddings,21
+1126857,Weebly,weebly,11
+60650386,WeWork,wework,179
+25699058,WhatsApp,whatsapp,51
+800,Windows,windows,14
+814,Wine,wine,12
+355,wireless,wireless,12
+243787,Wish,wish,12
+783053,Wix,wix,14
+598,women,women,29
+449551602,women's health,womens-health,28
+48443796,woocommerce,woocommerce,12
+33,WordPress,wordpress,36
+1177123,wordpress.com,wordpress-com,10
+131,work,work,15
+576686922,work visa,work-visa,10
+452952,Workday,workday,10
+18187,workflow,workflow,11
+34423,Workplace,workplace,14
+2648,world wide web,world-wide-web,106
+449550408,Worldpay,worldpay,10
+15440,writer,writer,13
+349,writing,writing,10
+61334014,Xiaomi,xiaomi,25
+444,Yahoo,yahoo,89
+334146,Yammer,yammer,12
+246990,Yelp,yelp,37
+33134059,Yik Yak,yik-yak,18
+6016,yo,yo,11
+6567,YouTube,youtube,87
+578044,zapier,zapier,13
+7923577,Zendesk,zendesk,27
+147204956,Zenefits,zenefits,54
