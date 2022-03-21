@@ -43,7 +43,8 @@ For validation data, 3,000 news were labelled manually with 2 categories: CLEANT
 
 ## Model results:
 
-### LabelModel - produces a set of noise-aware probibalistic training labels
+### LabelModel
+produces a set of noise-aware probibalistic training labels
 
 | Measure | Value |
 | --- | --- |
@@ -51,7 +52,8 @@ For validation data, 3,000 news were labelled manually with 2 categories: CLEANT
 | recall  | 0.95  |
 |precision | 0.99 |
 
-### MajorityLabelVoter model - takes the most popular label from functions on per datapoint basis
+### MajorityLabelVoter model
+takes the most popular label from functions on per datapoint basis
 
 | Measure | Value |
 | --- | --- |
